@@ -13,7 +13,6 @@ Libraries: Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/S
     *   **Matplotlib & Seaborn:** Data Visualization
 *   **Concepts:** KPI Tracking, Outlier Detection, Trend Forecasting, Product Performance Evaluation
 
----
 
 ## 🚀 Key Analysis & Features
 *   **Data Preprocessing:** Implemented robust cleaning techniques to handle missing values and inconsistent data types in complex datasets.
@@ -21,7 +20,6 @@ Libraries: Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/S
 *   **Consumer Insights:** Mapped the correlation between customer ratings (4.5+) and repeat purchase intent to drive product positioning.
 *   **Price Elasticity:** Identified the **'sweet spot' pricing range (₹1,500–₹3,000)** for maximum conversion rates.
 
----
 
 ## 📈 Business Impact
 The insights generated from this analysis provide actionable recommendations for:
@@ -29,4 +27,3 @@ The insights generated from this analysis provide actionable recommendations for
 *   **Marketing Strategy:** Identifying high-growth product categories for targeted ad spend.
 *   **Revenue Growth:** Optimizing price points based on historical sales performance.
 
----
