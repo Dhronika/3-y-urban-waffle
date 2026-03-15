@@ -27,3 +27,7 @@ The insights generated from this analysis provide actionable recommendations for
 *   **Marketing Strategy:** Identifying high-growth product categories for targeted ad spend.
 *   **Revenue Growth:** Optimizing price points based on historical sales performance.
 
+Dataset:
+The dataset used in this project is available publicly on Kaggle: https://www.kaggle.com/datasets/edusanketdk/electronics
+
+Please note that you may need to create a free Kaggle account to access the dataset.
